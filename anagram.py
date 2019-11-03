@@ -1,6 +1,6 @@
 """ 
-    Append and Delete Problem on HackerRank
-    Problem Link: https://www.hackerrank.com/challenges/append-and-delete/problem
+    Anagram Problem on HackerRank
+    Problem Link: https://www.hackerrank.com/challenges/anagram/problem
 
     Author: Shyam Kumar (@svshyam91)
 
