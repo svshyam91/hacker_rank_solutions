@@ -8,12 +8,8 @@
 """
 
 def marsExploration(s):
-    count=0
     sos="SOS"*(len(s)//3)
-    for i in range(len(s)): 
-        if s[i] != sos[i]:
-            count+=1
-    return count        
+    return sum([ s[i]!=sos[i] for i in range(len(s)) ])        
 
 if __name__ == '__main__':
     s = input()
